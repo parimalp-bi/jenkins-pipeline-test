@@ -9,3 +9,5 @@ echo $NUMBER
 echo $NUMBER
 
 echo $NUMBER
+
+echo $NUMBER
