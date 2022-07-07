@@ -6,4 +6,3 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 
 echo $NUMBER
 
-echo "This script is complete scm job"
