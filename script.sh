@@ -4,6 +4,6 @@ echo "This script is from github"
 
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 
-ECHO $NUMBER
+echo $NUMBER
 
-echo "This script is complete"
+echo "This script is complete"scm job
